@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **destifo/destifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 <hr />
 <h1 align="center">
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 -👨‍💻 Software Engineer | full stack developer
 
--📫 How to reach me: estifanosbiredan@gmail.com
+-📫 How to reach me: estifanosbireda@gmail.com
 
 ---
 
