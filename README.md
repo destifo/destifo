@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
--👋 Hello, I'm Kaleab Tekalign!
+-👋 Hello, My name is Estifanos Bireda!
 
 -👨‍💻 Software Engineer | full stack developer
 
